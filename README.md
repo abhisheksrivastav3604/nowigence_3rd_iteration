@@ -1,8 +1,8 @@
-# Merge-multiple-CSV-files-Apache-NiFi
+# Fetch data from AWS S3 object, load them into MongoDB according to the third iteration of the schema of nowigence
 
 ## Aim
 
-To create an ETL for consolidate data so that we can create the Materialized views on this
+The aim is to fetch data from AWS S3 object, load them into MongoDB according to the third iteration of the schema of nowigence.
 
 ## Schema: 
 {
